@@ -1,12 +1,6 @@
-## This is a new version with daemon instance!
+## DEPRICATED! Use the multi-agent-suite instead! It supports ROS1 and ROS2 in one.
+[https://github.com/fkie/fkie-multi-agent-suite](https://github.com/fkie/fkie-multi-agent-suite)
 
-Whats new:
-
- * Remote access and control of launch and configuration files.
- * Easy remote editing of launch files.
- * Monitoring for ROS nodes and system resources on remote hosts.
-
-> Old version is available on branch: `old_master` and is no longer supported!
 
 # FKIE multimaster for ROS
 
